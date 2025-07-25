@@ -1,2 +1,1 @@
-# CS330
-CS330
+# [CS330] PintOS Project
